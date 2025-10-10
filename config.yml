@@ -1,4 +1,8 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
+<<<<<<< HEAD
+baseURL: "https://https://fam-lab.github.io/" 
+=======
+baseURL: "https://famlab.org" 
+>>>>>>> 3bbf45b96f96792dccd627f3dd9796276fbf1305
 title: Moritz-Maria von Igelfeld
 theme: PaperMod
 
