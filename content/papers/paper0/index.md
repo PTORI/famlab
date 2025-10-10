@@ -20,18 +20,18 @@ editPost:
 
 + [Paper](Pena-et-al.-2023.pdf)
 + [Supporting information](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Facp.4068&file=acp4068-sup-0001-Supinfo.pdf)
-+ [cite_start]Code and data are available from the authors upon request. [cite: 575, 584]
 
 ---
 
 ##### Abstract
 
-People routinely use news outlets and social media platforms to keep up with recent events. While information from these common sources often aligns in the messages conveyed, news headlines and microblogs on social media also frequently provide contradictory messages. In this study, we examined how people recall and recognize tweets and news headlines when these sources provide inconsistent messaging. We tested this question in person (Experiment 1) and online (Experiment 2). Participants studied news headlines and tweets that provided either consistent messaging or inconsistent messaging, then completed a free recall and recognition memory task sequentially, and provided confidence ratings for recognition judgments. Findings were similar across memory tasks and experiments: Participants had better memory for tweets than news headlines regardless of message consistency. We discuss the implications of these findings for understanding memory in the digital age where social media use is widespread and messaging across sources is often inconsistent. 
+People routinely use news outlets and social media platforms to keep up with recent events. While information from these common sources often aligns in the messages conveyed, news headlines and microblogs on social media also frequently provide contradictory messages. In this study, we examined how people recall and recognize tweets and news headlines when these sources provide inconsistent messaging. We tested this question in person (Experiment 1) and online (Experiment 2). Participants studied news headlines and tweets that provided either consistent messaging or inconsistent messaging, then completed a free recall and recognition memory task sequentially, and provided confidence ratings for recognition judgments. Findings were similar across memory tasks and experiments: Participants had better memory for tweets than news headlines regardless of message consistency. We discuss the implications of these findings for understanding memory in the digital age where social media use is widespread and messaging across sources is often inconsistent.
+
 ---
 
 ##### Citation
 
-Peña, T., Maswood, R., Chen, M., & Rajaram, S. (2023). "Memory for tweets versus headlines: Does message consistency matter?" *Applied Cognitive Psychology*, 1–17. https://doi.org/10.1002/acp.4068 [cite: 754, 755]
+Peña, T., Maswood, R., Chen, M., & Rajaram, S. (2023). "Memory for tweets versus headlines: Does message consistency matter?" *Applied Cognitive Psychology*, 1–17. https://doi.org/10.1002/acp.4068
 
 ```BibTeX
 @article{Pena2023,

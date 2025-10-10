@@ -79,7 +79,7 @@ params:
         - name: CV
           url: Peña_CV.pdf
         - name: Email
-          url: Tori.Pena@stonybrook.edu
+          url: mailto:Tori.Pena@stonybrook.edu
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=gun9xpkAAAAJ&hl=en
         - name: GitHub
