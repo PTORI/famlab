@@ -21,6 +21,9 @@ menu:
         - name: Workshops
           url: workshops/
           weight: 3
+        - name: SPARK
+          url: spark/
+          weight: 4
         - name: Presentations
           weight: 5
 
