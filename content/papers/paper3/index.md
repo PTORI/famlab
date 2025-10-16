@@ -1,17 +1,15 @@
 ---
-title: "Your Inner Hedgehog" 
-date: 2021-04-06
-tags: ["social psychology","inner hedgehog","academia","experimental psychology","invasive thoughts"]
-author: ["Hilda Schreiber-Ziegler", "Moritz-Maria von Igelfeld"]
-description: "This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021." 
-summary: "Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure." 
+title: "Personal and collective mental time travel across the adult lifespan" 
+tags: ["age differences", "COVID-19", "collective negativity bias", "future positivity bias", "age-related positivity effect"]
+author: ["Lois K. Burnett*", "Tori Peña*", "Suparna Rajaram", "Lauren Richmond"]
+description: "We investigated remembering and future thinking in 2020 during the COVID-19 pandemic in young, middleaged, and older adults (N = 434; age: 18−81 years), for positive and negative events in the past (2019) and future (2021) in the personal and collective domains, as well as for future excitement and worry in these same domains in 1 week, 1 year, and 5–10 years’ time." 
+summary: "We replicated the collective negativity bias and futureoriented positivity bias, indicating the robustness of these phenomena. However, the pattern of age-related positivity diverged for personal events such that young adults exhibited similar positivity to older adults and more positivity than middle-aged adults. Finally, consistent with theoretical proposals of better emotion regulation with age, older adults reported more muted excitement and worry for the long-term future compared to young adults."
 cover:
-    image: "paper3.png"
-    alt: "Vizualisation of an inner hedgehog"
+    alt: "Bar chart showing higher memory recall for tweets than news headlines"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Socio-Experimental Psychology"
+    URL: "https://doi.org/10.1037/pag0000758"
+    Text: "Psychology & Aging"
 
 ---
 
@@ -19,34 +17,26 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper3.pdf)
-+ [Raw data](https://github.com/pmichaillat/michez-rule)
++ [Paper](Burnett-et-al-2023.pdf)
 
 ---
 
 ##### Abstract
 
-Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure. Mauris tincidunt quam a libero consequat, nec pharetra nunc tristique. Pellentesque eget ipsum ut dui laoreet congue ut nec nulla. Nulla facilisi. Sed consequat, odio ac aliquet tempor, turpis augue auctor mauris, at malesuada sem dolor eget libero. Nullam iaculis malesuada risus, id fringilla quam sagittis ac. Fusce congue vel ex et facilisis. Integer volutpat eros ut urna efficitur, id efficitur sapien pharetra.
+Older adults exhibit an age-related positivity effect, with more positivity for memories than young adults. Theoretical explanations attribute this phenomenon to greater emphasis on emotion regulation and well-being due to shortened time horizons. Adults, across the lifespan, also exhibit a collective negativity bias (more negativity about their country than their personal past and future) and a future-oriented positivity bias (more positivity for future projections than for memories). Threats to global health (e.g., the COVID-19 pandemic) may shorten future time horizons which may serve to impact emotional valence for memories and future projections. We investigated this possibility in 2020 during the COVID-19 pandemic in young, middleaged, and older adults (N = 434; age: 18−81 years), for positive and negative events in the past (2019) and future (2021) in the personal and collective domains, as well as for future excitement and worry in these same domains in 1 week, 1 year, and 5–10 years’ time. We replicated the collective negativity bias and futureoriented positivity bias, indicating the robustness of these phenomena. However, the pattern of age-related positivity diverged for personal events such that young adults exhibited similar positivity to older adults and more positivity than middle-aged adults. Finally, consistent with theoretical proposals of better emotion regulation with age, older adults reported more muted excitement and worry for the long-term future compared to young adults. We discuss the implications of this work for understanding valence-based biases in memory and future projections across the adult lifespan.
 
 ---
 
 ##### Citation
 
-Schreiber-Ziegler, Hilda, and Moritz-Maria von Igelfeld. 2021. "Your Inner Hedgehog." *Journal of Socio-Experimental Psychology* 131 (2): 1299–1302.
+Burnett, L. K., Peña, T., Rajaram, S., & Richmond, L. L. (2023). Personal and collective mental time travel across the adult lifespan during COVID-19. Psychology and Aging, 38(5), 374.
 
 ```BibTeX
-@article{SZI21,
-author = {Hilda Schreiber-Ziegler and Moritz-Maria von Igelfeld},
-year = {2021},
-title ={Your Inner Hedgehog},
-journal = {Journal of Socio-Experimental Psychology},
-volume = {131},
-number = {2},
-pages = {1299--1302}}
-```
-
----
-
-##### Related material
-
-+ [Nontechnical summary](https://www.alexandermccallsmith.com/book/your-inner-hedgehog)
+@article{Burnett2023,
+author = {Lois K. Burnett and Tori Peña and Suparna Rajaram and Lauren Richmond},
+year = {2023},
+title = {Personal and collective mental time travel across the adult lifespan},
+journal = {Psychology & Aging},
+pages = {374},
+doi = {https://doi.org/10.1037/pag00007589}
+}
