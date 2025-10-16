@@ -68,12 +68,12 @@ params:
               url: courses/
             - name: SPARK
               url: spark/
-            - name: Tags
-              url: tags/
+            - #name: Tags
+              #url: tags/
             - name: Archive
               url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character) #to be updated
+            - #name: Blog
+              #url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character) #to be updated
 
     socialIcons:
         - name: CV
@@ -83,7 +83,8 @@ params:
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=gun9xpkAAAAJ&hl=en
         - name: GitHub
-          url: https://github.com/pmichaillat #to be updated
+          url: https://github.com/ptori 
+          #to be updated
 
     assets:
         disableScrollBarStyle: true
