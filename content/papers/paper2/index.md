@@ -1,17 +1,15 @@
 ---
-title: "The Finer Points of Sausage Dogs" 
-date: 2004-12-28
-tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
-author: ["Florianus Prinzel", "Moritz-Maria von Igelfeld"]
-description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
-summary: "This paper studies the pulmonary efficiency of sausage dogs through several experiments." 
+title: "Deceitful hints: A meta-analytic review of the part-list cuing impairment in recall" 
+tags: ["part-list cues", "recall", "memory impairment", "meta-analysis"]
+author: ["Nicholas W. Pepe", "Anne Moyer", "Tori Peña", "Suparna Rajaram"]
+description: "We review the current literature on the part-list cuing impairment in recall and report a meta-analysis utilizing the procedural and statistical information obtained from 109 samples (N = 5,605). In each experiment, participants studied a list of words and subsequently performed a recall task either in the presence or absence of part-list cues." 
+summary: "Our analyses also demonstrate that longer retention periods between study and retrieval mitigate the part-list cuing impairment in recall. We discuss the implications of meta-analysis results for elements of experimental design, the findings of past literature, as well as the underlying theoretical mechanisms proposed to account for this impairment in recall and the applied consequences of this recall impairment."
 cover:
-    image: "paper2.png"
-    alt: "Dimensions of a sausage dog"
+    alt: "Bar chart showing higher memory recall for tweets than news headlines"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Canine Science"
+    URL: "https://doi.org/10.3758/s13423-023-02263-9"
+    Text: "Psychonomic Bulletin & Review"
 
 ---
 
@@ -19,43 +17,27 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper2.pdf)
-+ [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/wunk-model)
++ [Paper](Pepe-et-al.-2023.pdf)
 
 ---
 
 ##### Abstract
 
-This paper studies the pulmonary efficiency of sausage dogs. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur: $\sin(\theta) = x^2 - \exp(1+\chi)$. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor $\zeta$ incididunt ut labore et dolore magna aliqua: $p(x) = \int \cos(\zeta) d\zeta - \theta$. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
----
-
-##### Figure 2: Dimensions of a sausage dog
-
-![](paper2.png)
+A large body of research in the study of memory has accumulated to date on the part-list cuing impairment in recall. This phenomenon refers to the lower recall of studied information in the presence of some studied words provided as retrieval cues compared to when no cues are provided. We review the current literature on the part-list cuing impairment in recall and report a meta-analysis utilizing the procedural and statistical information obtained from 109 samples (N = 5,605). In each experiment, participants studied a list of words and subsequently performed a recall task either in the presence or absence of part-list cues. The meta-analysis shows that the part-list cuing impairment is a robust, medium-sized impairment (Cohen, 1988). This recall impairment was not significantly sensitive to the number of study items provided, the relationship among study items, the number of part-list cues provided, the amount of time provided for recall, or certain other factors of interest. Our analyses also demonstrate that longer retention periods between study and retrieval mitigate the part-list cuing impairment in recall. We discuss the implications of meta-analysis results for elements of experimental design, the findings of past literature, as well as the underlying theoretical mechanisms proposed to account for this impairment in recall and the applied
+consequences of this recall impairment.
 
 ---
 
 ##### Citation
 
-Prinzel, Florianus, and Moritz-Maria von Igelfeld. 2004. "The Finer Points of Sausage Dogs." *Journal of Canine Science* 43 (2): 89–109. http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs.
+Pepe, N. W., Moyer, A., Peña, T., & Rajaram, S. (2023). Deceitful hints: A meta-analytic review of the part-list cuing impairment in recall. Psychonomic Bulletin & Review, 30(4), 1243-1272.
 
 ```BibTeX
-@article{PI04,
-author = {Florianus Prinzel and Moritz-Maria von Igelfeld},
-year = {2004},
-title ={The Finer Points of Sausage Dogs},
-journal = {Journal of Canine Science},
-volume = {43},
-number = {2},
-pages = {89--109},
-url = {http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs}}
-```
-
----
-
-##### Related material
-
-+ [Presentation slides](presentation2.pdf)
-+ [Wikipedia entry](https://en.wikipedia.org/wiki/The_Finer_Points_of_Sausage_Dogs)
+@article{Pepe2023,
+author = {Nicholas W. Pepe and Anne Moyer and Tori Peña and Suparna Rajaram},
+year = {2023},
+title = {Deceitful hints: A meta-analytic review of the part-list cuing impairment in recall},
+journal = {Psychonomic Bulletin & Review},
+pages = {1243–1272},
+doi = {https://doi.org/10.3758/s13423-023-02263-9}
+}
