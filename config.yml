@@ -22,9 +22,10 @@ menu:
           url: workshops/
           weight: 3
         - name: SPARK
-          url: spark/
+          url: https://www.sparksociety.org/
           weight: 4
         - name: Presentations
+          url: presentations/
           weight: 5
 
 params:
@@ -66,13 +67,9 @@ params:
             - name: Workshops
               url: workshops/
             - name: SPARK
-              url: spark/
-            - #name: Tags
-              #url: tags/
+              url: https://www.sparksociety.org/
             - name: Presentations
               url: presentations/
-            - #name: Blog
-              #url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character) #to be updated
 
     socialIcons:
         - name: CV
