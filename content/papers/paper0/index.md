@@ -4,7 +4,7 @@ date: 2023
 tags: ["digital age", "memory", "news headlines", "social media", "tweets"]
 author: ["Tori Peña", "Raeya Maswood", "Melissa Chen", "Suparna Rajaram"]
 description: "This study examines how people recall and recognize tweets and news headlines when these sources provide inconsistent messaging, finding a consistent memory advantage for tweets. [cite: 14, 17]" 
-summary: "This study investigates memory for tweets versus news headlines, particularly when their messages conflict. Across both in-person and online experiments, results consistently showed that participants had better memory for tweets than for news headlines, regardless of whether the messages were consistent or inconsistent. This suggests the informal, 'gossipy' nature of microblogs gives them a mnemonic advantage that overrides factors like source credibility. [cite: 95, 119]"
+summary: "This study investigates memory for tweets versus news headlines, particularly when their messages conflict. Across both in-person and online experiments, results consistently showed that participants had better memory for tweets than for news headlines, regardless of whether the messages were consistent or inconsistent. This suggests the informal, 'gossipy' nature of microblogs gives them a mnemonic advantage that overrides factors like source credibility."
 cover:
     alt: "Bar chart showing higher memory recall for tweets than news headlines"
     relative: true
