@@ -64,14 +64,14 @@ params:
               url: research/
             - name: Papers
               url: papers/
-            - name: Courses
-              url: courses/
+            - name: Workshops
+              url: workshops/
             - name: SPARK
               url: spark/
             - #name: Tags
               #url: tags/
-            - name: Archive
-              url: archive/
+            - name: Presentations
+              url: presentations/
             - #name: Blog
               #url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character) #to be updated
 
