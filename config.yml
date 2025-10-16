@@ -54,8 +54,8 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Lecturer of Psychology, Tori Peña, Ph.D. (she/her/ella)
-          subtitle: "I am a Lecturer in the Department of Psychology at Stony Brook University."
+          title: Future and Memory (FaM) Laboratory @ Stony Brook University
+          subtitle: "Dr. Tori Peña is the director of the FaM lab. Here, we examine the socio-cognitives influences of social remembering and future thinking/imagination. We address a variety of questions such as how does remembering with others change the way we remember the past? How does imagining the future with others shift our emotional valence for our personal and collective future? More recently, we have started examining how engaging with large-language models (LLMs; such as ChatGPT) also shift the way we remember the past and imagine the future."
           imageUrl: "picture.jpeg" # to be replaced
           imageWidth: 160
           imageHeight: 160
@@ -68,12 +68,12 @@ params:
               url: courses/
             - name: SPARK
               url: spark/
-            - name: Tags
-              url: tags/
+            - #name: Tags
+              #url: tags/
             - name: Archive
               url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character) #to be updated
+            - #name: Blog
+              #url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character) #to be updated
 
     socialIcons:
         - name: CV
