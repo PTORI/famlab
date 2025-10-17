@@ -5,6 +5,8 @@ description: "This branch of research examines how remembering with others shape
 summary: "This branch of research examines how remembering with others shapes human memory and gives rise to collective memories."
 cover:
     image: "collab.png"
+    imageWidth: 220
+    imageHeight: 220
     #alt: "Portugese Irregular Verbs"
     relative: true
 editPost:
