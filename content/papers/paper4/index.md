@@ -2,7 +2,7 @@
 title: "How social is social memory?: Isolating the influences of social and nonsocial cues on recall" 
 #date: "2023"
 tags: ["collaborative memory", "part-list cuing", "collective memory", "cross-cueing"]
-author: ["Lois K. Burnett*", "Tori Peña*", "Suparna Rajaram", "Lauren Richmond"]
+author: ["Tori Peña", "Nicholas W. Pepe", "Suparna Rajaram"]
 description: "We aligned the two procedures by taking the recall output of each collaborative group and generating cues for part-list cued participants. This yoked design enabled us to present identical cues and equate their presentation sequence across the two  cuing conditions. We also devised a group-level recall index for the part-list cued “groups” yoked to the collaborative groups, thus equating the recall metric between conditions." 
 summary: "We aligned the two procedures by taking the recall output of each collaborative group and generating cues for part-list cued participants. This yoked design enabled us to present identical cues and equate their presentation sequence across the two  cuing conditions. We also devised a group-level recall index for the part-list cued “groups” yoked to the collaborative groups, thus equating the recall metric between conditions."
 cover:
