@@ -4,7 +4,7 @@ tags: ["collaborative memory","collective memory"]
 description: "This branch of research examines how remembering with others shapes human memory and gives rise to collective memories."
 summary: "This branch of research examines how remembering with others shapes human memory and gives rise to collective memories."
 cover:
-    image: "collab.png"
+    imageUrl: "collab.png"
     imageWidth: 220
     imageHeight: 220
     #alt: "Portugese Irregular Verbs"
