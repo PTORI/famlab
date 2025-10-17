@@ -4,9 +4,9 @@ tags: ["collective future thinking", "future imagination"]
 description: "People are not optimistic about the future of the United States. When reporting their thoughts about the future, people express more worries than excitement, a phenomenon known as the collective negativity bias and widely replicated among people residing in the United States."
 summary: "People are not optimistic about the future of the United States. When reporting their thoughts about the future, people express more worries than excitement, a phenomenon known as the collective negativity bias and widely replicated among people residing in the United States."
 cover:
-    imageUrl: "cft.png"
-    imageWidth: 220
-    imageHeight: 220
+    image: "cft.png"
+    imageWidth: 100
+    imageHeight: 100
     #alt: "Portugese Irregular Verbs"
     relative: true
 editPost:
