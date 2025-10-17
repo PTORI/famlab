@@ -1,6 +1,6 @@
 ---
 title: "Deceitful hints: A meta-analytic review of the part-list cuing impairment in recall" 
-date: "2023"
+#date: "2023"
 tags: ["part-list cues", "recall", "memory impairment", "meta-analysis"]
 author: ["Nicholas W. Pepe", "Anne Moyer", "Tori Peña", "Suparna Rajaram"]
 description: "We review the current literature on the part-list cuing impairment in recall and report a meta-analysis utilizing the procedural and statistical information obtained from 109 samples (N = 5,605). In each experiment, participants studied a list of words and subsequently performed a recall task either in the presence or absence of part-list cues." 
