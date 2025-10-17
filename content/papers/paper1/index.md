@@ -1,5 +1,6 @@
 ---
 title: "Social remembering in the digital age: Implications for virtual study, work, and social engagement" 
+date: "2022"
 tags: ["collaborative memory", "collaborative inhibition", "virtual collaborative recall", "collective memory"]
 author: ["Garrett D. Greeley*", "Tori Peña*", "Suparna Rajaram"]
 description: "In this article, we discuss the challenges, value, and broader relevance of extending laboratory-based memory research to online platforms. In doing so, we report a virtual collaborative memory paradigm, where we examine individual and social remembering in a fully online, chat-based setting, and present data from two completely virtual experiments." 
