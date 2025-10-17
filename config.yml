@@ -54,11 +54,11 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Future and Memory (FaM) Laboratory @ Stony Brook University
-          subtitle: "Dr. Tori Peña is the director of the FaM lab. Here, we examine the socio-cognitives influences of social remembering and future thinking/imagination. We address a variety of questions such as how does remembering with others change the way we remember the past? How does imagining the future with others shift our emotional valence for our personal and collective future? More recently, we have started examining how engaging with large-language models (LLMs; such as ChatGPT) also shift the way we remember the past and imagine the future."
+          title: Future and Memory (FaM) Lab @ Stony Brook University
+          subtitle: "Dr. Tori Peña is the director of the FaM lab. Here, we examine the socio-cognitives influences of social remembering and future thinking/imagination. We address a variety of questions such as how does remembering with others change the way we remember the past? How does imagining the future with others shift our emotional valence for our personal and collective future?"
           imageUrl: "famlablogo.jpeg" # to be replaced
-          imageWidth: 160
-          imageHeight: 160
+          imageWidth: 220
+          imageHeight: 220
           buttons:
             - name: Research
               url: research/
@@ -89,7 +89,7 @@ params:
         hiddenInSingle: true
     label:
       text: "FAM Lab"
-      icon: favicon.ico
+      icon: famlablogo.jpeg
       iconHeight: 18
 
 markup:
