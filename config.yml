@@ -52,7 +52,7 @@ params:
     profileMode:
           enabled: true
           title: Future and Memory (FaM) Lab @ Stony Brook University
-          subtitle: "Dr. Tori Peña is the director of the FaM lab. 
+          subtitle: "Dr. Tori Peña is the director of the FaM lab. //
 
             We examine the socio-cognitives influences of social remembering and future thinking/imagination. We address a variety of questions such as how does remembering with others change the way people remember the past? How does imagining the future with others shift the emotional valence for people's personal and collective futures?"
           imageUrl: "famlablogo.jpeg" 
