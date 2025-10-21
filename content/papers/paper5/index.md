@@ -1,6 +1,6 @@
 ---
 title: "Do emotional and social primers change the pessimism in collective future thinking?: Testing the robustness of the collective negativity bias" 
-#date: "2023"
+date: 2025-10-21
 tags: ["collective negativity bias", "collective future thinking", "primers"]
 author: ["Tori Peña", "Suparna Rajaram"]
 description: "People are not optimistic about the future of the United States. When reporting their thoughts  about the future, people express more worries than excitement, a phenomenon known as the collective negativity bias and widely replicated among people residing in the United States. However, we do not know whether this bias is malleable. In this study, we tested whether prior exposure to valenced examples of collective future projections – attributed to an unknown source or a social source – shifts the valence of collective future thinking." 

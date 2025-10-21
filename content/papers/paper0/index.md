@@ -1,6 +1,6 @@
 ---
 title: "Memory for tweets versus headlines: Does message consistency matter?" 
-#date: "2023"
+date: 2023-04-05
 tags: ["digital age", "memory", "news headlines", "social media", "tweets"]
 author: ["Tori Peña*", "Raeya Maswood*", "Melissa Chen", "Suparna Rajaram"]
 description: "This study examines how people recall and recognize tweets and news headlines when these sources provide inconsistent messaging, finding a consistent memory advantage for tweets." 

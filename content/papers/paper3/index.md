@@ -1,6 +1,6 @@
 ---
 title: "Personal and collective mental time travel across the adult lifespan" 
-#date: "2023"
+date: 2023-06-15
 tags: ["age differences", "COVID-19", "collective negativity bias", "future positivity bias", "age-related positivity effect"]
 author: ["Lois K. Burnett*", "Tori Peña*", "Suparna Rajaram", "Lauren Richmond"]
 description: "We investigated remembering and future thinking in 2020 during the COVID-19 pandemic in young, middleaged, and older adults (N = 434; age: 18−81 years), for positive and negative events in the past (2019) and future (2021) in the personal and collective domains, as well as for future excitement and worry in these same domains in 1 week, 1 year, and 5–10 years’ time." 
