@@ -29,7 +29,7 @@ params:
     description: "This is the official website of the FAM lab, led by Tori Peña."
     author: Tori Peña, Ph.D.
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "October 2025"
+    DateFormat: date_long
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
