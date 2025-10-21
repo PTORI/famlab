@@ -4,7 +4,7 @@ date: 2023-06-15
 tags: ["age differences", "COVID-19", "collective negativity bias", "future positivity bias", "age-related positivity effect"]
 author: ["Lois K. Burnett*", "Tori Peña*", "Suparna Rajaram", "Lauren Richmond"]
 description: "We investigated remembering and future thinking in 2020 during the COVID-19 pandemic in young, middleaged, and older adults (N = 434; age: 18−81 years), for positive and negative events in the past (2019) and future (2021) in the personal and collective domains, as well as for future excitement and worry in these same domains in 1 week, 1 year, and 5–10 years’ time." 
-summary: "We replicated the collective negativity bias and futureoriented positivity bias, indicating the robustness of these phenomena. However, the pattern of age-related positivity diverged for personal events such that young adults exhibited similar positivity to older adults and more positivity than middle-aged adults. Finally, consistent with theoretical proposals of better emotion regulation with age, older adults reported more muted excitement and worry for the long-term future compared to young adults."
+summary: "We replicated the collective negativity bias and future-oriented positivity bias, indicating the robustness of these phenomena. However, the pattern of age-related positivity diverged for personal events such that young adults exhibited similar positivity to older adults and more positivity than middle-aged adults. Finally, consistent with theoretical proposals of better emotion regulation with age, older adults reported more muted excitement and worry for the long-term future compared to young adults."
 cover:
     alt: "Bar chart showing higher memory recall for tweets than news headlines"
     relative: true
