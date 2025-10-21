@@ -1,6 +1,6 @@
 ---
 title: "Social Influences on Remembering and Future Thinking" 
-date: 2025-10-25
+date: 2025-10-XX
 tags: ["collaborative inhibition", "collective future thinking"]
 author: ["Tori Peña, Ph.D."]
 description: "Dr. Tori Peña discussed some of her work on how people shape each other's memories and imagination of the future of the United States. She reviewed work she did examining chat-based collaboration (Greeley et al., 2022). She also discussed her work experimentally testing whether people can imagine a more positive future for the future of the United States (Peña & Rajaram, in press)." 
