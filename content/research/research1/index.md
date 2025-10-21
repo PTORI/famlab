@@ -1,8 +1,8 @@
 ---
 title: "Collaborative Remembering and the Emergence of Collective Memory" 
 tags: ["collaborative memory","collective memory"]
-description: "This branch of research examines how remembering with others shapes human memory and gives rise to collective memories."
-summary: "This branch of research examines how remembering with others shapes human memory and gives rise to collective memories."
+description: "Collaboration can simultaneously reinforce and impair memories of the past. Interestingly, collaboration can also serve as a tool to homogenize memories of the past - giving rise to the formation of collectively shared memories."
+summary: "Collaboration can simultaneously reinforce and impair memories of the past. Interestingly, collaboration can also serve as a tool to homogenize memories of the past - giving rise to the formation of collectively shared memories."
 cover:
     image: "collab.jpg"
     imageWidth: 100
