@@ -41,7 +41,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["research","papers","courses","SPARK"]
+    MainSections: ["research","papers","presentations","SPARK"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -87,7 +87,7 @@ params:
     label:
       text: "FAM Lab"
       icon: famlablogo.jpeg
-      iconHeight: 18
+      iconHeight: 20
 
 markup:
     goldmark:
