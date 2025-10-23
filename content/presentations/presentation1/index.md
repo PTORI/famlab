@@ -3,8 +3,8 @@ title: "Social Influences on Remembering and Future Thinking"
 date: 2025-10-17
 tags: ["collaborative inhibition", "collective future thinking"]
 author: ["Tori Peña, Ph.D."]
-description: "Dr. Tori Peña discussed some of her work at New Mexico State University's Cognitive Brown Bag Series. She reviewed her work on how people shape each other's memories and imagination of the future of the United States. She reviewed work she did examining chat-based collaboration (Greeley et al., 2022). She also discussed her work experimentally testing whether people can imagine a more positive future for the future of the United States (Peña & Rajaram, in press)." 
-summary: "Dr. Tori Peña discussed some of her work at New Mexico State University's Cognitive Brown Bag Series. She reviewed her work on how people shape each other's memories and imagination of the future of the United States. She reviewed work she did examining chat-based collaboration (Greeley et al., 2022). She also discussed her work experimentally testing whether people can imagine a more positive future for the future of the United States (Peña & Rajaram, in press)." 
+description: "Dr. Tori Peña discussed some of her work at New Mexico State University's Cognitive Brown Bag Series. She reviewed work she did examining chat-based collaboration (Greeley et al., 2022). Then, she also discussed her work experimentally testing whether people can imagine a more positive future for the future of the United States (Peña & Rajaram, in press)." 
+summary: "Dr. Tori Peña discussed some of her work at New Mexico State University's Cognitive Brown Bag Series. She reviewed work she did examining chat-based collaboration (Greeley et al., 2022). Then, she also discussed her work experimentally testing whether people can imagine a more positive future for the future of the United States (Peña & Rajaram, in press)." 
 cover:
     image: "nmsu-talk.png"
     alt: "Figure caption"
