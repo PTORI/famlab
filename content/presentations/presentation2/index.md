@@ -3,8 +3,8 @@ title: "Investigating how LLMs Augments Cognition from Creativity to Future Thin
 date: 2025-10-22
 tags: ["creativity", "future imagination", "large-language models", "originiality", "cognition"]
 author: ["Tori Peña, Ph.D."]
-description: "Dr. Tori Peña discussed a recent grant submission which proposed to examine whether the use of large-language models (LLMs) might homogenize human cognition. She reviewed some recent work reporting that people report more similar creative outputs (e.g., short stories, essays) after augmenting their writing with an LLM (i.e., ChatGPT). She discussed the potential implications of LLM-use on human cognition and social connection." 
-summary: "Dr. Tori Peña discussed a recent grant submission which proposed to examine whether the use of large-language models (LLMs) might homogenize human cognition. She reviewed some recent work reporting that people report more similar creative outputs (e.g., short stories, essays) after augmenting their writing with an LLM (i.e., ChatGPT). She discussed the potential implications of LLM-use on human cognition and social connection." 
+description: "Dr. Tori Peña discussed a recent grant submission with Stony Brook University's BIAS-NRT group. This proprosal reflected on whether the use of large-language models (LLMs) might homogenize human cognition. She reviewed some recent work reporting that people report more similar creative outputs (e.g., short stories, essays) after augmenting their writing with an LLM (i.e., ChatGPT). She discussed the potential implications of LLM-use on human cognition and social connection." 
+summary: "Dr. Tori Peña discussed a recent grant submission with Stony Brook University's BIAS-NRT group. This proprosal reflected on whether the use of large-language models (LLMs) might homogenize human cognition. She reviewed some recent work reporting that people report more similar creative outputs (e.g., short stories, essays) after augmenting their writing with an LLM (i.e., ChatGPT). She discussed the potential implications of LLM-use on human cognition and social connection." 
 cover:
     image: "bias-nrt.png"
     alt: "Figure caption"
