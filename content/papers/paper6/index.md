@@ -1,8 +1,8 @@
 ---
-title: "The Crucial Roles of Campus Representation and Sense of Belonging of Undergraduates in Science, Technology, Engineering, and Math" 
+title: "The crucial roles of campus representation and sense of belonging of undergraduates in science, technology, engineering, and math" 
 date: 2025-04-29
 tags: ["sense of belonging", "campus diversity", "underrepresented students", "retention in STEM"]
-author: ["Chelsie O. Burchett, *Tori Peña*, Caitlin Monahan, Rosa Bermejo, Miriam Sarwana, Bonita London"]
+author: ["Chelsie O. Burchett, Tori Peña, Caitlin Monahan, Rosa Bermejo, Miriam Sarwana, Bonita London"]
 description: "Sense of belonging is crucial for the retention and success of undergraduate students, especially students from underrepresented backgrounds. This study aimed to understand potential psychosocial pathways that contribute to poor retention of Black and Latine students in STEM relative to their white peers. Path analysis revealed that greater perceptions of diversity on campus predicted greater sense of belonging for both groups. For Black and Latine students, a sense of belonging was negatively associated with intentions to leave the university and STEM, but positively associated with academic confidence." 
 summary: "Black and Latine students reported lower levels of sense of belonging, perceptions of diversity, and academic confidence than their white peers. Path analysis revealed that greater perceptions of diversity on campus predicted greater sense of belonging for both groups. For Black and Latine students, a sense of belonging was negatively associated with intentions to leave the university and STEM, but positively associated with academic confidence. White students reported similar patterns except there was no significant association between sense of belonging and leaving their STEM major. We discuss how academic administrators and institutions can help retain Black and Latine students in STEM."
 cover:
@@ -10,7 +10,7 @@ cover:
     relative: true
 editPost:
     URL: ""
-    Text: "Journal fr STEM Education Research"
+    Text: "Journal for STEM Education Research"
 
 ---
 
@@ -38,7 +38,7 @@ Burchett, C.O., Peña, T., Monahan, C. et al. The Crucial Roles of Campus Repres
 author = {Chelsie O. Burchett and Tori Peña and Caitlin Monahan and Rosa Bermejo and Miriam Sarwana and Bonita London},
 year = {2025},
 title = {The Crucial Roles of Campus Representation and Sense of Belonging of Undergraduates in Science, Technology, Engineering, and Math},
-journal = {Journal fr STEM Education Research},
+journal = {Journal for STEM Education Research},
 pages = {477-499},
 doi = {https://doi.org/10.1007/s41979-025-00148-1}
 }
