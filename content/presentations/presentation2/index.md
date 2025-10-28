@@ -32,4 +32,6 @@ This section discussed how people are generally *less* creative after augmenting
 ## Part 2: Implications for Other Domains of Human Cognition
 
 In this second section, we discussed future directions related to the grant proposal. This is ongoing work in the FaM lab in collaboration with Drs. Bren Bo O'Connor and Jason D'Cruz.
+
+#####
 ---
