@@ -18,7 +18,7 @@ editPost:
 
 ##### Download
 
-+ [Paper](Thorpe et al., 2024.pdf)
++ [Paper](Thorpe-et-al., 2024.pdf)
 + [Supplemental Materials](https://doi.org/10.1037/bul0000435.supp)
 
 ---
