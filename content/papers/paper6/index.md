@@ -18,7 +18,7 @@ editPost:
 
 ##### Download
 
-+ [Paper](burchett-et-al-2025.pdf)
++ [Paper](Burchett-et-al-2025.pdf)
 + [Supplemental Materials](https://static-content.springer.com/esm/art%3A10.1007%2Fs41979-025-00148-1/MediaObjects/41979_2025_148_MOESM1_ESM.docx)
 
 ---
