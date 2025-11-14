@@ -27,12 +27,12 @@ Collaboration with other people can homogenize memories (e.g., Greeley et al., 2
 
 #### View
 
-+ [Peña, T., Pepe, N.W., & Rajaram (in press)](pena-et-al-in-press.pdf)
-+ Rajaram S., & Greeley, G.D., & Peña, T. (2025)
-+ [Greeley, G.D., Peña, T., Pepe, N.W., Choi, H.-Y., & Rajaram, S. (2025)](greeley_et_al_cjep.pdf)
-+ [Pepe, N., Moyer, A., Peña, T., & Rajaram, S. (2023)](Pepe-et-al.-2023.pdf)
-+ [Greeley, G. D.*, Peña, T.*, & Rajaram, S. (2022)](greeley-et-al-2022.pdf)
-+ Rajaram, S., Peña, T., & Greeley, G. D. (2022)
++ [Peña, T., Pepe, N.W., & Rajaram (in press) *JEP:LMC*](pena-et-al-in-press.pdf)
++ Rajaram S., Greeley, G.D., & Peña, T. (2025) [book chapter]
++ [Greeley, G.D., Peña, T., Pepe, N.W., Choi, H.-Y., & Rajaram, S. (2025) *Canadian JEP*](greeley_et_al_cjep.pdf)
++ [Pepe, N., Moyer, A., Peña, T., & Rajaram, S. (2023) *PBR*](Pepe-et-al.-2023.pdf)
++ [Greeley, G. D.*, Peña, T.*, & Rajaram, S. (2022) *MMM*](greeley-et-al-2022.pdf)
++ Rajaram, S., Peña, T., & Greeley, G. D. (2022) [book chapter]
 
 ---
 

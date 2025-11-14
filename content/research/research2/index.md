@@ -29,8 +29,8 @@ We often think about how our lives may unfold over time (D’Argembeau et al., 2
 
 #### View
 
-+ [Peña, T. & Rajaram (in press)](pena-rajaram-inpress.pdf)
-+ [Burnett, L. K.*, Peña, T.*, Rajaram, S., & Richmond, L. L. (2023)](Burnett-et-al-2023.pdf)
++ [Peña, T. & Rajaram (in press) *PBR*](pena-rajaram-inpress.pdf)
++ [Burnett, L. K.*, Peña, T.*, Rajaram, S., & Richmond, L. L. (2023) *Psych & Aging*](Burnett-et-al-2023.pdf)
 ---
 
 #### Excerpt from Peña & Rajaram (in press) at PBR
