@@ -5,8 +5,8 @@ description: "Collaboration can simultaneously reinforce and impair memories of 
 summary: "Collaboration can simultaneously reinforce and impair memories of the past. Interestingly, collaboration can also serve as a tool to homogenize memories of the past - giving rise to the formation of collectively shared memories."
 cover:
     image: "collab.jpg"
-    imageWidth: 100
-    imageHeight: 100
+    imageWidth: 65
+    imageHeight: 65
     #alt: "Portugese Irregular Verbs"
     relative: true
 editPost:

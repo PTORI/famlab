@@ -5,8 +5,8 @@ description: "People are not optimistic about the future of the United States. W
 summary: "People are not optimistic about the future of the United States. When reporting their thoughts about the future, people express more worries than excitement, a phenomenon known as the collective negativity bias and widely replicated among people residing in the United States."
 cover:
     image: "cft.jpg"
-    imageWidth: 100
-    imageHeight: 100
+    imageWidth: 65
+    imageHeight: 65
     #alt: "Portugese Irregular Verbs"
     relative: true
 editPost:
