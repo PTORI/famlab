@@ -19,6 +19,7 @@ editPost:
 ##### Download
 
 + [Paper](pena-rajaram-inpress.pdf)
++ [Supplemental Materials](https://static-content.springer.com/esm/art%3A10.3758%2Fs13423-025-02799-y/MediaObjects/13423_2025_2799_MOESM1_ESM.docx)
 
 ---
 
