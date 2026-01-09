@@ -18,7 +18,7 @@ editPost:
 
 ##### Download
 
-+ [Paper](pena-et-al-in-press.pdf)
++ [Paper](pena-et-al-in-2026.pdf)
 
 ---
 
