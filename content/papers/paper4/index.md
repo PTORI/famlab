@@ -19,6 +19,7 @@ editPost:
 ##### Download
 
 + [Paper](pena-et-al-2026.pdf)
++ [Supplemental Materials](https://supp.apa.org/psycarticles/supplemental/xlm0001557/xlm0001557_supp.html)
 
 ---
 
