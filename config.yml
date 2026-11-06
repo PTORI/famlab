@@ -24,6 +24,9 @@ menu:
         - name: SPARK
           url: https://www.sparksociety.org/
           weight: 4
+        - name: Prospective Graduate Student Information
+          url: https://docs.google.com/document/d/1DrpSp4YVF35GKssdxrJZh-fipUKtW0nMV-X3wU8VRCU/edit?usp=sharing 
+          weight: 5
 
 params:
     description: "This is the official website of the FAM lab, led by Tori Peña."
@@ -41,7 +44,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["research","papers","presentations", "Prospective Graduate Student Information", "SPARK"]
+    MainSections: ["research","papers","presentations", "prospective graduate student information", "SPARK"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
