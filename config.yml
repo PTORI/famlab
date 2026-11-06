@@ -67,6 +67,8 @@ params:
               url: presentations/
             - name: SPARK
               url: https://www.sparksociety.org/
+            - name: Prospective Graduate Student Information
+              url: https://docs.google.com/document/d/1DrpSp4YVF35GKssdxrJZh-fipUKtW0nMV-X3wU8VRCU/edit?usp=sharing 
 
     socialIcons:
         - name: CV
